@@ -14,3 +14,17 @@ body {
 #container h1 {
     font-size: 32px;
 }
+
+#cabecera {
+    background: #33A;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 7px 7px 16px 3px rgba(0,0,0,0.49);
+}
+#cabecera #tagline {
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
