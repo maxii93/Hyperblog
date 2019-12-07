@@ -32,7 +32,7 @@ body {
     padding: 0 0 0 1em;
 }
 #footer {
-    background-color: dimgrey;
+    background-color: rgb(77, 77, 77);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
