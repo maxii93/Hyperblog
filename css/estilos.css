@@ -31,3 +31,14 @@ body {
     font-size: 0.8em;
     padding: 0 0 0 1em;
 }
+#footer {
+    background-color: dimgrey;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding: 0.8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
