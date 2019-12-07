@@ -38,5 +38,15 @@ body {
 #cabecera #logo {
     width: 45px;
     padding: 0.5em;
-
+}
+#footer {
+    background-color: rgb(77, 77, 77);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding: 0.8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
